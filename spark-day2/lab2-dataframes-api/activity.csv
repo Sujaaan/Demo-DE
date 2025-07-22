@@ -1,0 +1,8 @@
+user_id,date,activity_type,duration_min
+1,2024-01-01,running,30
+1,2024-01-02,cycling,45
+3,2024-01-01,walking,20
+3,2024-01-03,running,25
+4,2024-01-02,swimming,50
+2,2024-01-01,walking,15
+5,2024-01-01,running,10

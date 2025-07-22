@@ -1,0 +1,1 @@
+This is a sample note attached to each user in the dataset.
