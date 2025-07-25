@@ -1,0 +1,4 @@
+Hub_Product_HK,product_sku,Load_Date_x,Record_Source_x,Batch_ID_x,name,category,price,Load_Date_y,Record_Source_y,Batch_ID_y
+df1e40051eff4bcf9b4ebc93083bfcad7f5195746b3e657de6b72bf3cb8897c3,P001,2025-07-25,RetailSystem,1,Laptop,Electronics,1000.0,2025-07-25,RetailSystem,1
+eea502719605f8ec96582d94a0f1738190fe72d16c7b57de48fcfcebfbcb631a,P002,2025-07-25,RetailSystem,1,Phone,Electronics,500.0,2025-07-25,RetailSystem,1
+12061cdd9a5c92ac2919a8567b74417f879ec93612941fb6bf4fdb941e7003eb,P003,2025-07-25,RetailSystem,1,Headphones,Accessories,150.0,2025-07-25,RetailSystem,1
